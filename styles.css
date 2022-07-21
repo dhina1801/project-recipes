@@ -1,0 +1,20 @@
+*{
+    color: rgb(197, 199, 204);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-image: url(./photo/recipe.jpg);
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+div{
+    margin: 20px;
+        
+}
